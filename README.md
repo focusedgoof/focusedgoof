@@ -1,9 +1,5 @@
 <h2 align="center">💫 About Me</h2>
-
-
-
-
-
+<img align="right" alt="Coding" width="300" height="300" src="https://media-public.canva.com/MHp94/MAEDdaMHp94/1/s.png">
 
 🔭 I’m currently looking for full-time work opportunities
 
@@ -15,7 +11,7 @@
 
 💬 Ask me about Javascript and Communities
 
-📫 You can reach out to me on Twitter
+📫 You can reach out to me on <a href="https://twitter.com/joy_i2205">Twitter</a>
 
 ⚡ Fun fact I used to play Netball professionally
 <br>
@@ -69,16 +65,16 @@
 
 <section>
   <a href="https://www.hackerrank.com/focusedgoof" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" height="20" width="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" height="30" width="30">
   </a>
   <a href="https://leetcode.com/focusedgoof/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp&w=256" height="20" width="20">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp&w=256" height="30" width="30">
   </a>
   <a href="https://www.codechef.com/users/focusedgoof" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codechef_button_icon_151902.png" height="20" width="20">
+    <img src="https://i.pinimg.com/564x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30" width="30">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sakshine6hw1" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" height="20" width="20">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" height="30" width="30">
   </a>
 </section>
 
@@ -108,6 +104,8 @@
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
 
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-negi-2001/)
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/focusedgoof) 
   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@focusedgoof) 
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/joy_i2205) 
