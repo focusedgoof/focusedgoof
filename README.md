@@ -1,5 +1,5 @@
+<img align="right" alt="Coding" width="350" height="350" src="https://media-public.canva.com/MHp94/MAEDdaMHp94/1/s.png">
 <h2 align="center">💫 About Me</h2>
-<img align="right" alt="Coding" width="300" height="300" src="https://media-public.canva.com/MHp94/MAEDdaMHp94/1/s.png">
 
 🔭 I’m currently looking for full-time work opportunities
 
