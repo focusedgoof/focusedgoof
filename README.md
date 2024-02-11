@@ -3,17 +3,17 @@
 
 🔭 I’m currently looking for full-time work opportunities
 
-🌱 I’m currently learning Javascript and React
+🌱 I’m currently learning React and Tailwind
 
 👯 I’m looking to collaborate on any development project
 
-📝 I regularly write articles on <a href="https://hashnode.com/@focusedgoof">Hashnode</a>
+📝 I am trying to regularly write articles on <a href="https://hashnode.com/@focusedgoof">Hashnode</a>
 
 💬 Ask me about Javascript and Communities
 
 📫 You can reach out to me on <a href="https://twitter.com/joy_i2205">Twitter</a>
 
-⚡ Fun fact I used to play Netball professionally
+⚡ Fun fact I used to play Netball semi-professionally
 <br>
 
 <!-- Technologies-->
