@@ -1,9 +1,9 @@
-<img align="right" alt="Coding" width="350" height="350" src="https://media-public.canva.com/MHp94/MAEDdaMHp94/1/s.png">
+<img align="right" alt="Coding" width="300" height="300" src="https://media-public.canva.com/MHp94/MAEDdaMHp94/1/s.png">
 <h2 align="center">💫 About Me</h2>
 
 🔭 I’m currently looking for full-time work opportunities
 
-🌱 I’m currently learning React and Tailwind
+🌱 I’m currently learning Angular and Tailwind
 
 👯 I’m looking to collaborate on any development project
 
@@ -13,7 +13,7 @@
 
 📫 You can reach out to me on <a href="https://twitter.com/joy_i2205">Twitter</a>
 
-⚡ Fun fact I used to play Netball semi-professionally
+⚡ Fun fact I used to play Netball professionally
 <br>
 
 <!-- Technologies-->
